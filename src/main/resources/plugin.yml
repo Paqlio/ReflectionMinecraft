@@ -1,0 +1,4 @@
+name: Template
+version: '${project.version}'
+main: Paqlio.template
+api-version: 1.19
